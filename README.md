@@ -43,7 +43,7 @@ Our research has identified the potential of using deep learning models for ESG 
 
 ---
 
-# Apprndix
-## Training Model Structure
+## Appendix
+### Training Model Structure
 ![圖片1](https://github.com/camlet0630/ESG_ranking_system/assets/91883637/f9ae8a77-fe31-4455-9cbe-34b959b64095)
 
