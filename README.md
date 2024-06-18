@@ -41,5 +41,3 @@ Our research has identified the potential of using deep learning models for ESG 
 2. Data Quality: Utilize kappa to assess the consistency of data labeling, ensuring data quality.
 3. Timeline: Differentiate news data over time to observe trends in the scoring variations across various aspects of the company.
 
----
-
